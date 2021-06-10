@@ -1,0 +1,3 @@
+displayName = Auto-Fisher
+author = convicted tomatophile
+version = 0.1
